@@ -1,0 +1,11 @@
+#MatriceIncidence
+#1 = Oriente, 2 = nonOriente
+typeGraphe = 1
+nbSom = 4
+nbArc = 5
+arc=1 s=1 t=3
+arc=2 s=2 t=4
+arc=3 s=3 t=4
+arc=4 s=4 t=2
+arc=5 s=4 t=3
+#FIN

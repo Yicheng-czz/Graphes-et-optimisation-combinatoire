@@ -1,0 +1,10 @@
+#Mat d'adj et leurs degrees
+nbSom = 6
+nbArc = 9
+som=1 nbSucc=1 succ=3
+som=2 nbSucc=3 succ=1 3 4
+som=3 nbSucc=2 succ=4 6
+som=4 nbSucc=0 succ=
+som=5 nbSucc=2 succ=4 6
+som=6 nbSucc=1 succ=4
+#FIN
